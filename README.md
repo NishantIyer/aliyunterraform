@@ -1,4 +1,4 @@
-rraform-alicloud-gpdb
+terraform-alicloud-gpdb - Nishant Version
 =====================
 
 Terraform module for provisioning AnalyticDB for PostgreSQL instances on Alibaba Cloud By Nishant Iyer.
